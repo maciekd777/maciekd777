@@ -4,7 +4,7 @@ Hi 👋 My name is Maciej Dombrowski
 On its way to become a Data Scientist 📈
 ----------------------------------------
 
-I am self employed math and physics tutor since I finished my master's degree in physics 🎓. I love music 🎸, football ⚽, and traveling ✈️.
+I am self-employed math and physics tutor since I finished my master's degree in physics 🎓. I love music 🎸, football ⚽, and traveling ✈️.
 
 * 🌍  I'm based in Łódź, Poland
 * ✉️  You can contact me at [dombrowskimaciej@gmail.com](mailto:dombrowskimaciej@gmail.com)
