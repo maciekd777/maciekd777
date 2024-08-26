@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Maciej and I'm currently self employed 
+
 <!--
 **maciekd777/maciekd777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
