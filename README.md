@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Maciej and I'm currently self employed 
+I am Maciej and I am self employed math and physics tutor since I finished my master's degree in physics 🎓. Currently on my way to become Data Scientist one day 📈. I love music 🎸, football ⚽, and traveling ✈️.
 
 <!--
 **maciekd777/maciekd777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
