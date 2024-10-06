@@ -1,7 +1,7 @@
 Hi 👋 My name is Maciej Dombrowski
 ==================================
 
-On its way to become a Data Scientist 📈
+On my way to become a Data Scientist 📈
 ----------------------------------------
 
 I am self-employed math and physics tutor since I finished my master's degree in physics 🎓. I love music 🎸, football ⚽, and traveling ✈️.
